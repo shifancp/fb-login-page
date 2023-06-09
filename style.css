@@ -1,0 +1,157 @@
+.header
+{
+    background-color: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.logo
+{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+}
+.login
+{
+    color: #fff;
+    padding-top: 10px;
+    width: 50%;
+    float: left;
+}
+.logo-text
+{
+    color: #fff;
+font-size: 35px;
+font-weight: bold;
+text-decoration: none;
+font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+margin-left: 170px;
+}
+.loginlabel
+{
+font-size: 11px;
+}
+.login-cntrls
+{
+    margin-left: 115px;
+}
+.frgt
+{
+    color: #9cb4d8;
+font-size: 11px;
+text-decoration: none;
+}
+.subm
+{
+    background-color: #4267b2;
+    color: #fff;
+    height: 20px;
+    border-color: #29487d;
+    cursor: pointer;
+
+}
+
+.subm:hover{
+    background: #29487d;
+}
+.left-section
+{
+    padding-left: 134px;
+    padding-top: 52px;
+    width: 50%;
+    float: left;
+}
+.right-section
+{
+    width: 40%;
+    float: left;
+}
+.main-body
+{
+    width: 100%;
+    height: 520px;
+    background: linear-gradient(white, #D3D8E8);
+}
+.tagline
+{
+font-weight: bold;
+font-size: 21px;
+}
+.image
+{
+    width: 581px;
+}
+.box
+{
+    font-size: small;
+    border-radius: 5px;
+    margin-top: 10px;
+    width: 350px;
+    height: 25px;
+}
+.box1
+{
+    font-size: small;
+    border-radius: 5px;
+    width: 170px;
+    height: 25px;
+}
+.lab{
+    font-size: smaller;
+    font-weight: bold;
+    color: grey;
+}
+.para2
+{
+    font-size: x-small;
+color: grey;
+font-weight: 400;
+text-decoration: none;
+}
+.signup
+{
+    background-color: forestgreen;
+    border-color: forestgreen;
+width: 170px;
+height: 30px;
+border-radius: 5px;
+color: #fff;
+font-size: small;
+}
+.para3
+{
+    font-size: small;
+color: grey;
+font-weight: 400;
+text-decoration: none;
+}
+.signup:hover
+{
+    background-color: seagreen;
+}
+.footer
+{
+    padding-left: 100px;
+    float: left;
+    width: 100%;
+    height: 100px;
+}
+.lang
+{
+    text-decoration: none;
+font-size: small;
+word-spacing: 20px;
+}
+.fbc
+{
+    margin-top: 20px;
+font-size: x-small;
+color: grey;
+}
+.line
+{
+    width: 150%;
+}
